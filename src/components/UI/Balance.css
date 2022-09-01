@@ -1,0 +1,18 @@
+.balance{
+    font-size: 4rem;
+    font-weight: 500;
+  }
+  
+.hidden{
+   text-shadow: 0 0 30px black;
+   color: transparent;
+  }
+
+  .balance-container{
+    margin-bottom: 40px;
+  }
+
+  .currency{
+    font-size: 1.5rem;
+    opacity: 0.6;
+}

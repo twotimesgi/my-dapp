@@ -1,0 +1,22 @@
+.connect-btn{
+    width: 100%;
+    padding: 1rem;
+    border: 1px solid rgb(235, 235, 235);
+    border-radius: 0.5rem;
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+    cursor: pointer;
+    font-weight: 300;
+    background-color: rgb(249, 249, 249);
+    margin: 20px 0;
+}
+
+.connect-btn:hover{
+    filter: brightness(0.95);
+}
+
+img{
+    width: 2.5rem;
+    margin-right: 1rem;
+}
